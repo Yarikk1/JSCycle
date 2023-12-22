@@ -8,7 +8,7 @@
 // console.log(sum)
 
 //№2
-// let n = Math.floor(Math.random() * (31 - 2)) + 2
+// let n = Math.floor(Math.random() * (31 - 2) + 2)
 // let fac = 1
 // while (n > 1) {
 //   fac *= n
